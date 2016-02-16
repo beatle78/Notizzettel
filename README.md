@@ -1,1 +1,3 @@
 # Notizzettel
+
+Topic Methods erklären
