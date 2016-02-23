@@ -1,4 +1,4 @@
 # Notizzettel
 
-Topic Methods erklären/ 
+Topic Methods erklären // 
 Topic Case When Statements
